@@ -1,11 +1,12 @@
 {
+    "description": "Abdo AT Main Web Page",
+    "repo": "https://github.com/xAbdoAT/xabdoat.github.io",
     "owner": {
-        "username": "5enox",
-        "email": "animikantan@gmail.com"
+        "username": "xAbdoAT",
+        "email": "xabdoat@gmail.com",
+        "twitter": "xAbdoAT"
     },
     "record": {
-        "A": ["217.174.245.249"],
-        "MX": ["hosts.is-a.dev"],
-        "TXT": "v=spf1 a mx ip4:217.174.245.249 ~all"
+        "CNAME": "xabdoat.github.io"
     }
 }
