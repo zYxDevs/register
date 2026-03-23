@@ -4,8 +4,6 @@
         "email": "mujthabamkdev@gmail.com"
     },
     "records": {
-        "A": [
-            "76.76.21.21"
-        ]
+        "TXT": "vc-domain-verify=mujthaba.is-a.dev,ff0973a566218f58b1f0"
     }
 }
