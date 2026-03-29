@@ -6,8 +6,6 @@
         "email": "anas303842@gmail.com"
     },
     "records": {
-        "A": [
-            "75.2.60.5"
-        ]
+        "CNAME": "anasattaullah.netlify.app"
     }
 }
